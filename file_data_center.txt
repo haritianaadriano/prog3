@@ -1,0 +1,1 @@
+Patrimoine(id=1, possesseur=string, derniereModification=2024-09-23T10:54:17Z)
